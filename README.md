@@ -36,10 +36,3 @@ Gosto de construir APIs bem estruturadas, pipelines de CI/CD e sistemas distribu
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
-
-## Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=feliperbatista&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperbatista&layout=compact&theme=dark&hide_border=true" />
-
----
